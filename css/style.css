@@ -1,0 +1,47 @@
+
+/* body{
+    height: 200vh;
+} */
+
+/* ####################### NAVBAR STYLING  ##################### */
+.my_nav{
+    background-color: white;
+    box-shadow: 0 3px 12px -1px rgba(255, 182, 182, 0.2);
+}
+.my_nav a{
+    font-size: 1.2rem;
+    font-weight: 500;
+    opacity: 0.85;
+}
+.my_nav a:hover {
+    color: var(--primary);
+}
+.my_nav a:focus {
+    color: var(--primary);
+}
+.logo{
+    width: 200px;
+}
+.btn_resume {
+    border: 1.5px solid var(--primary);
+    padding: 7px;
+    background: none;
+    color: var(--primary);
+    outline: none;
+    border-radius: 7px;
+    text-decoration: none;
+    transition: 0.8s;
+    font-size: 1rem;
+}
+.btn_resume:hover{
+    color: var(--primary);
+    background-color: var(--primary-20);
+}
+
+
+
+
+
+
+/* #########################  HERO SECTION  ######################### */
+
